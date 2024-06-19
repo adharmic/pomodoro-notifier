@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.username.pomodoromonitor</string>
+    <string>com.adharmic.pomodoromonitor</string>
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/osascript</string>
