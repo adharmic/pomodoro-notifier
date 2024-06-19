@@ -9,6 +9,7 @@ This repository contains files meant to make the process of using the [Flow Pomo
 - Place the plist file in your ~/Library/LaunchAgents directory.
   - You can change the name of this file if you would like to.
 - Place the AppleScript in a location of your choice.
+- Update the AppleScript (using "Script Editor") to use your phone number.
 - Update the plist file, changing the file path for the PomodoroNotifier script to wherever you've placed it on your system.
 - Run `launchctl load ~/Library/LaunchAgents/com.adharmic.pomodoromonitor.plist` to load the Launch Agent.
   - Remember to update the name of the plist file in this command if you changed it.
